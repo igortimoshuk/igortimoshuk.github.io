@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Some words
+I am 4th year bachelor student at Higher School of Economics. My major program is theoretical physics. I am interested in quantum computation and MRAM devices.
