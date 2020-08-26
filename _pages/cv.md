@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Phyics, Higher School of Economics, 2021 (expected)
+* B.S. in Physics, Higher School of Economics, 2017-2021 (expected)
+* Special courses on Theoretical Physics, Landau Institute for Theoretical Physics, 2019-2021 (expected)
 
 Work experience
 ======
@@ -25,9 +26,8 @@ Skills
 * Theoretical Physics
   * Kinetics
   * Statistical mechanics
-  * Quantum mechanics
 * Python
   * NumPy, SciPy, CuPy
   * scikit-learn, tensorflow, CatBoost
   * Plotly, seaborn, matplotlib
-* Go
+* Golang
