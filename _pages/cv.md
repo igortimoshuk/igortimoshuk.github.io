@@ -16,18 +16,22 @@ Education
 
 Work experience
 ======
-* Spring 2020: Teaching Assistant
+* Spring 2020: Teaching Assistant on Analytical Mechanics
   * Higher School of Economics
   * Duties included: Homework assessment
   * Supervisor: Pavel Ioselevich
+
+* Fall 2020: Teaching Assistant on Quantum Mechanics
+  * Higher School of Economics
+  * Duties included: Homework assessment
+  * Supervisor: Yuriy Makhlin
+
+* Spring 2020: Research Assistant in Laboratory for Condensed Matter Physics
+  * Higher School of Economics
+  * Duties included: Research of possible application of Josephson-junction qubits
+  * Supervisor: Yuriy Makhlin
   
 Skills
 ======
-* Theoretical Physics
-  * Kinetics
-  * Statistical mechanics
 * Python
-  * NumPy, SciPy, CuPy
-  * scikit-learn, tensorflow, CatBoost
-  * Plotly, seaborn, matplotlib
 * Golang
