@@ -26,7 +26,7 @@ Work experience
   * Duties included: Homework assessment
   * Supervisor: Yuriy Makhlin
 
-* Spring 2020: Research Assistant in Laboratory for Condensed Matter Physics
+* Fall 2020: Research Assistant in Laboratory for Condensed Matter Physics
   * Higher School of Economics
   * Duties included: Research of possible application of Josephson-junction qubits
   * Supervisor: Yuriy Makhlin
