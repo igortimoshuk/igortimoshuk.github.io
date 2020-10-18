@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* Spring 2020: Teaching Assistant on Analytical Mechanics
+* Spring 2020: Teaching Assistant in Analytical Mechanics
   * Higher School of Economics
   * Duties included: Homework assessment
   * Supervisor: Pavel Ioselevich
 
-* Fall 2020: Teaching Assistant on Quantum Mechanics
+* Fall 2020: Teaching Assistant in Quantum Mechanics
   * Higher School of Economics
   * Duties included: Homework assessment
   * Supervisor: Yuriy Makhlin
